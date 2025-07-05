@@ -8,6 +8,7 @@ I recently worked on an E-commerce Sales Dashboard to analyze global online sale
 • Standardized formats
 • Filtered invalid entries
 
+
 ✅ Data Visualization using Power BI
 • Dynamic dashboards to monitor sales by country, product, and year
 • Key visuals:
@@ -17,10 +18,12 @@ I recently worked on an E-commerce Sales Dashboard to analyze global online sale
 🔹 Customer Distribution by Country
 🔹 Sales Trends by Quarter
 
+
 📈 Insights:
 • UK dominates in customer volume
 • 2010 shows significantly higher sales than 2009 (87% of total quantity)
 • Top products include "ZINC CANDLE STICK" and "YULETIDE WRAP SET"
+
 
 💡 Tools Used:
 MS Excel | Power BI
